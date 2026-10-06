@@ -1,0 +1,28 @@
+train_no,train_name,source,destination,departure,arrival,days
+12723,Telangana Express,Hyderabad,New Delhi,06:00,06:30,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+12724,Telangana Express,New Delhi,Hyderabad,16:00,16:30,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+12760,Charminar Express,Hyderabad,Chennai,18:00,08:00,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+12603,Hyderabad Express,Hyderabad,Chennai,16:00,08:30,Monday Wednesday Friday
+12604,Chennai Express,Chennai,Hyderabad,17:00,08:00,Tuesday Thursday Saturday
+17015,Visakha Express,Hyderabad,Bhubaneswar,15:00,07:30,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+17016,Visakha Express,Bhubaneswar,Hyderabad,17:00,09:30,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+12702,Hussain Sagar Express,Mumbai,Hyderabad,21:00,10:00,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+12701,Hussain Sagar Express,Hyderabad,Mumbai,16:00,06:00,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+12727,Godavari Express,Visakhapatnam,Hyderabad,17:30,05:00,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+12728,Godavari Express,Hyderabad,Visakhapatnam,17:30,05:00,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+12806,Janmabhoomi Express,Secunderabad,Visakhapatnam,07:10,20:00,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+12805,Janmabhoomi Express,Visakhapatnam,Secunderabad,06:15,19:00,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+12627,Karnataka Express,Bengaluru,New Delhi,19:20,10:30,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+12628,Karnataka Express,New Delhi,Bengaluru,21:15,06:40,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+12028,Chennai Bengaluru Shatabdi,Chennai,Bengaluru,05:50,11:00,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+12027,Bengaluru Chennai Shatabdi,Bengaluru,Chennai,16:30,21:30,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+12245,Duronto Express,Howrah,New Delhi,08:20,17:00,Monday Wednesday Friday
+12246,Duronto Express,New Delhi,Howrah,19:30,04:30,Tuesday Thursday Sunday
+12951,Mumbai Rajdhani,Mumbai,New Delhi,17:00,08:35,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+12952,Mumbai Rajdhani,New Delhi,Mumbai,16:55,08:35,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+12622,Tamil Nadu Express,New Delhi,Chennai,22:30,07:00,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+12621,Tamil Nadu Express,Chennai,New Delhi,22:00,07:00,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+16345,Netravati Express,Lokmanya Tilak Terminus,Thiruvananthapuram,11:40,19:30,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+16346,Netravati Express,Thiruvananthapuram,Lokmanya Tilak Terminus,09:15,18:30,Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+12864,Howrah Express,Mumbai,Howrah,21:00,06:00,Monday Wednesday Friday
+12863,Howrah Express,Howrah,Mumbai,22:00,08:00,Tuesday Thursday Saturday

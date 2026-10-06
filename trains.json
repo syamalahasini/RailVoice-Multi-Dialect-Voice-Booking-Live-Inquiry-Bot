@@ -1,0 +1,16 @@
+import json
+
+def load_train_dataset():
+    with open("trains.json", "r", encoding="utf-8") as f:
+        return json.load(f)
+
+train_data = load_train_dataset()
+
+def find_trains_by_state_or_city(city_or_state_name):
+    """Filter trains by station name or city in the local dataset."""
+    results = []
+    for train in train_data:
+        if city_or_state_name.lower() in train.get("source", "").lower() or \
+           city_or_state_name.lower() in train.get("destination", "").lower():
+            results.append(train)
+    return results
